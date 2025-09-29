@@ -42,7 +42,7 @@ This will install dependencies and initialize the database with default test dat
 **Employers**
 ```sh
 flask internship create-position 1 "Frontend Intern" "Work on React applications"
-flask internship respond 1 2 accepted
+flask internship respond 2 2 accepted
 ```
 
 **Staff**
